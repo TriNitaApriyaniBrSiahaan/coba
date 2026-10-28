@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
         return "Rp. " + Number(angka).toLocaleString("id-ID");
     }
 
-    // Tampilkan data ke tabel
+  
     function tampilkanProduk() {
         tableBody.innerHTML = "";
 
